@@ -126,6 +126,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "macos",
+			"description": "OS X Updates",
+			"domain_files": ["macos.txt"]
 		}
 	]
 }
