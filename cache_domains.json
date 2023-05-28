@@ -9,6 +9,16 @@
 			"name": "macos",
 			"description": "OS X Updates",
 			"domain_files": ["macos.txt"]
+		},
+		{
+			"name": "Manjaro Repos",
+			"description": "Manjaro Repos",
+			"domain_files": ["manjaro.txt"]
+		},
+		{
+			"name": "Ubuntu Repos",
+			"description": "Ubuntu Repos",
+			"domain_files": ["ubuntu.txt"]
 		}
 	]
 }

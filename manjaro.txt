@@ -1,0 +1,4 @@
+mirror.internode.on.net
+ftp.iinet.net.au
+mirror.aarnet.edu.au
+mirror.2degrees.nz
