@@ -4,21 +4,6 @@
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
-		},
-		{
-			"name": "macos",
-			"description": "OS X Updates",
-			"domain_files": ["macos.txt"]
-		},
-		{
-			"name": "manjaro",
-			"description": "Manjaro Repos",
-			"domain_files": ["manjaro.txt"]
-		},
-		{
-			"name": "ubuntu",
-			"description": "Ubuntu Repos",
-			"domain_files": ["ubuntu.txt"]
 		}
 	]
 }
